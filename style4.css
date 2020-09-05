@@ -1,0 +1,11 @@
+body {
+  width: 60%;
+  margin-left: 20%;
+}
+.button {
+  text-align: center;
+}
+.button input {
+  width: 60%;
+  height: 20px;
+}
